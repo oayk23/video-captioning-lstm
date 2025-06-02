@@ -1,0 +1,8 @@
+transformers
+av
+torch
+sentencepiece
+evaluate
+matplotlib
+tqdm
+numpy
